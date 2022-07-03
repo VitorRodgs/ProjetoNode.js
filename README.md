@@ -1,0 +1,1 @@
+*A ideia desse projeto é apenas desenvolver um pouco a utilização de node.js e banco de dados mysql, criando um sistema simples de cadastro de postagens utilizando o express no Node*
